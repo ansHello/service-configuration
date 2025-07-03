@@ -1,2 +1,2 @@
 # service-configuration
-configuracion microservicios
+configuración repositorio archivos properties de microservicios
